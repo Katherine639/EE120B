@@ -14,8 +14,6 @@ int main(void)
 	}
 }
 
-//Tick function written by Kent
-//Fransisco helped with some of the transitions logic
 void Tick(){
 	switch(state){ //Transitions
 		case Start:
